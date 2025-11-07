@@ -1,0 +1,2 @@
+# -react-custom-hook-
+In this task, you will be introducing custom hooks to easy our commonly used tasks for example we generally do some fetch opetaaions to get data from backend api we will use a dummy api link to fetch data using fetch function of javascript in order to make it smoothely usable we will make a custom hook useFetch. Dummy api provided below in tips.
